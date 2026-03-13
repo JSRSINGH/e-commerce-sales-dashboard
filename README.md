@@ -1,4 +1,5 @@
 # E-Commerce Sales Analytics Dashboard
+https://e-commerce-sales-dashboard-zdnotv54dg5ksc2hcimbsj.streamlit.app/ (Project Live)
 
 ## Project Overview
 This is an end-to-end Data Analytics project analyzing an E-commerce sales dataset. It covers data preparation, exploratory data analysis, SQL-based metric calculations, and a complete interactive dashboard built with Streamlit. The goal is to provide actionable insights into revenue, product performance, and customer behavior.
